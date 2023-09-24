@@ -1,1 +1,0 @@
-Select * FROM SalesLT.ProductCategory;
